@@ -4,6 +4,31 @@ This project was developed inspired by the dataquest guide project. In it, the a
 
 ## Graph
 
-![alt text](https://github.com/thyall/IPCA-StoryTelling/blob/main/graph.png?raw=true)
+![alt text](https://github.com/thyall/IPCA-StoryTelling/blob/main/images/graph.png?raw=true)
 
 ## Requeriments
+ - streamlit
+ - pandas
+ - matplotlib
+ - logging
+
+## Environment
+- Visual Stdio (Using wsl2 on terminal remote)
+- Jupyter Notebook
+
+ ## Commands
+
+### To install
+ ```
+pip install pandas
+
+pip install matplotlib
+
+pip install streamlit
+
+pip install logging
+ ```
+### To Run
+```
+stremalit run ipca.py
+```
