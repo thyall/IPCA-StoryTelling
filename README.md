@@ -5,3 +5,5 @@ This project was developed inspired by the dataquest guide project. In it, the a
 ## Graph
 
 ![alt text](https://github.com/thyall/IPCA-StoryTelling/blob/main/graph.png?raw=true)
+
+## Requeriments
