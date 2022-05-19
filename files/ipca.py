@@ -41,7 +41,7 @@ def read_data(file_path):
         return None
 
 
-df_ipca = read_data('C:/Users/Pichau/Documents/mlops/ipca/ipca.csv')
+df_ipca = read_data('C:/Users/Pichau/Documents/mlops/ipca/files/ipca.csv')
 
 df_ipca.rename(
     columns={
